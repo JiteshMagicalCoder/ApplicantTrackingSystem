@@ -1,2 +1,2 @@
 # ApplicantTrackingSystem
-Candidate Hiring Process.
+Candidate Hiring Process. It includes candidate api's.
